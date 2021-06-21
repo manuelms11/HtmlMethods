@@ -30,7 +30,8 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '9.0'
 
-  s.source_files = 'Source/**/*'
+  s.source_files = 'HtmlMethods/Source/**/*'
+  s.swift_version = '5.0'
   
   # s.resource_bundles = {
   #   'HtmlMethods' => ['HtmlMethods/Assets/*.png']
