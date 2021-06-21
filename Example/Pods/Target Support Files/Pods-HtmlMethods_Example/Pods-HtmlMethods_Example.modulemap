@@ -1,0 +1,6 @@
+framework module Pods_HtmlMethods_Example {
+  umbrella header "Pods-HtmlMethods_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

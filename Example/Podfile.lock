@@ -1,0 +1,16 @@
+PODS:
+  - HtmlMethods (0.1.0)
+
+DEPENDENCIES:
+  - HtmlMethods (from `../`)
+
+EXTERNAL SOURCES:
+  HtmlMethods:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HtmlMethods: b18b8c5b346afce87ef0fead35ae88c579a60076
+
+PODFILE CHECKSUM: 95a98e54d0c0f2880245847d723ee268b1dd4201
+
+COCOAPODS: 1.10.1

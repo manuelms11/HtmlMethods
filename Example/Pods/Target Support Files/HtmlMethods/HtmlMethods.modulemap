@@ -1,0 +1,6 @@
+framework module HtmlMethods {
+  umbrella header "HtmlMethods-umbrella.h"
+
+  export *
+  module * { export * }
+}
