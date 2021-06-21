@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'HtmlMethods'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of HtmlMethods.'
+  s.summary          = 'HtmlMethods is pack of http methods'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+  'HtmlMethods is pack of http methods PSOT, GET, PUT, DELETE'
                        DESC
 
   s.homepage         = 'https://github.com/tassadarcrg/HtmlMethods'
@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '9.0'
 
-  s.source_files = 'HtmlMethods/Classes/**/*'
+  s.source_files = 'Source/**/*'
   
   # s.resource_bundles = {
   #   'HtmlMethods' => ['HtmlMethods/Assets/*.png']
