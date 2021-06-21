@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'HtmlMethods_Example' do
+  pod 'HtmlMethods', :path => '../'
+
+  target 'HtmlMethods_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
